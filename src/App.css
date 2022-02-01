@@ -1,0 +1,15 @@
+footer {
+  position: absolute;
+
+  bottom: 0px;
+  
+  width: 100vw;
+  height: 1em;
+
+  border-top-style: groove;
+  border-top-color: orange;
+  border-top-width: 3px;
+
+  background: rgb(77,11,100);
+  background: linear-gradient(0deg, rgba(77,11,100,1) 35%, rgba(193,1,234,1) 100%);
+}
